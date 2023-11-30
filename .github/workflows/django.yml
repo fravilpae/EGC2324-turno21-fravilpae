@@ -44,4 +44,4 @@ jobs:
     - name: Run tests
       run: |
         cd decide
-        ./manage.py test  --keepdb 
+        ./manage.py test --keepdb 
